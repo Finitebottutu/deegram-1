@@ -1,11 +1,11 @@
 VERSION = "0.2.4"
-CREATOR = "@finite_xd"
-BOT_NAME = "FINITE MUSIC"
-YOUTUBE = "https://www.youtube.com/channel/UCigq8CVltGNAM-hs6cAC8mw"
+CREATOR = "@Hey_BoSs_U"
+BOT_NAME = " 🌟 Deezer Music DL 🌟"
+YOUTUBE = "https://t.me/joinchat/dbYrjNodN041MTM1"
 WELCOME_MSG = (
     f"🎶🎵 Welcome to {BOT_NAME} 🎵🎶\n\n"
     "Click /help for more information\n\n"
-    "join @finiteyt for more bots"
+    "Enjoy--- 💞💞"
 )
 INFO_MSG = (
     f"👤 Creator: {CREATOR}\n"
@@ -13,15 +13,15 @@ INFO_MSG = (
     f"🍩 Youtube: {YOUTUBE}"
 )
 STATS_MSG = (
-    "**Bot Uptime:** {}\n"
-    "**Total Disk Space:** {}\n"
-    "**Used:** {} "
-    "**Free:** {}\n\n"
-    "📊Data Usage📊\n**Upload:** {}\n"
-    "**Download:** {}\n\n"
-    "**CPU:** {}\n"
-    "**RAM:** {}\n"
-    "**DISK:** {}"
+    "** 👉 Bot Uptime ⏳:** {}\n"
+    "** 💿 Total Disk Space :** {}\n"
+    "** 💔 Used :** {} "
+    "** 🪓 Free :** {}\n\n"
+    "🔥 Data Usage 🌟\n**Upload:** {}\n"
+    "** ⏬ Download :** {}\n\n"
+    "** 🖥 CPU :** {}\n"
+    "** 💽 RAM :** {}\n"
+    "** 📀 DISK :** {}"
 )
 HELP_MSG = (
     "Search by Album or Track or just send me a Deezer Track or Album link and I will download it for you bot by @finite_xd\n\n"
