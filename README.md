@@ -1,4 +1,4 @@
-![Slam](https://telegra.ph/file/5b0ae1361fd50dad69e4a.jpg)
+![Sm](https://telegra.ph/file/5b0ae1361fd50dad69e4a.jpg)
 # Deegram
 ![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/deegram)
 ![GitHub forks](https://img.shields.io/github/forks/breakdowns/deegram)
